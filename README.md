@@ -4,7 +4,7 @@ This repository contains homework assignments for the 2024 course: Algorithms an
 # Made by: 
 Kapranova Xenia (itmo ID - 411451)
 
-## Goals of course
+# Goals of course
 The aim of this course is to organize information about handling big data, review algorithms, and familiarize with server operation.
 
 ## About dataset description:
@@ -15,9 +15,9 @@ The aim of this course is to organize information about handling big data, revie
 You can find more about the data in the read.me file in the data folder. There you can also find descriptions of which .csv files were used in which notebook and links where they can be found.
 
 ## Usage
- - 'Hometask1.ipynb': Jupyter Notebook containing the first assignment, obtaining my dataset from the general one.
- - 'hometask2.ipynb': Jupyter Notebook contains the extraction of descriptors using RDKit and Mordred, as well as feature selection techniques. 
- - 'hometask3.ipynb': Jupyter Notebook contains data cleaning from duplicates, data analysis, and data normalization.
- - 'hometask4.ipynb': Jupyter Notebook contains methods for dimensionality reduction and obtaining a dataset with fewer descriptors.
- - 'hometask5.ipynb': Jupyter Notebook contains clustering algorithms and visualization.
- - 'hometask6.ipynb': Jupyter Notebook contains иuilding regression models.
+ - **Hometask1.ipynb**: Jupyter Notebook containing the first assignment, obtaining my dataset from the general one.
+ - **hometask2.ipynb**: Jupyter Notebook contains the extraction of descriptors using RDKit and Mordred, as well as feature selection techniques. 
+ - **hometask3.ipynb**: Jupyter Notebook contains data cleaning from duplicates, data analysis, and data normalization.
+ - **hometask4.ipynb**: Jupyter Notebook contains methods for dimensionality reduction and obtaining a dataset with fewer descriptors.
+ - **hometask5.ipynb**: Jupyter Notebook contains clustering algorithms and visualization.
+ - **hometask6.ipynb**: Jupyter Notebook contains иuilding regression models.
