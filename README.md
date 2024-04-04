@@ -18,6 +18,6 @@ You can find more about the data in the read.me file in the data folder. There y
  - **Hometask1.ipynb**: Jupyter Notebook containing the first assignment, obtaining my dataset from the general one.
  - **hometask2.ipynb**: Jupyter Notebook contains the extraction of descriptors using RDKit and Mordred, as well as feature selection techniques. 
  - **hometask3.ipynb**: Jupyter Notebook contains data cleaning from duplicates, data analysis, and data normalization.
- - **hometask4.ipynb**: Jupyter Notebook contains methods for dimensionality reduction and obtaining a dataset with fewer descriptors.
+ - **hometask4.ipynb**: Jupyter Notebook contains methods for dimensionality reduction and obtaining a dataset with fewer descriptors. (Before PCA, there were no NaN values and then NaN values appeared)
  - **hometask5.ipynb**: Jupyter Notebook contains clustering algorithms and visualization.
- - **hometask6.ipynb**: Jupyter Notebook contains иuilding regression models.
+ - **hometask6.ipynb**: Jupyter Notebook contains иuilding regression models. ()
