@@ -23,4 +23,5 @@
  - 'hometask6.ipynb': df_CPs.csv
 
 ## Where can you find all the files used in this repository: 
-[data_folder]([URL](https://drive.google.com/drive/folders/10-KClpvR2ULJaxWVk8oy2SUg32J5coxQ?usp=sharing))
+[data_folder](https://drive.google.com/drive/folders/10-KClpvR2ULJaxWVk8oy2SUg32J5coxQ?usp=sharing)
+
