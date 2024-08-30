@@ -2,7 +2,7 @@
 This repository contains homework assignments for the 2024 course: Algorithms and Big Data in Chemistry and Materials Science.
 
 ## Made by: 
-Kapranova Xenia (itmo ID - 411451)
+Kapranova Xenia (ID - 411451)
 
 ## Goals of course
 The aim of this course is to organize information about handling big data, review algorithms, and familiarize with server operation.
