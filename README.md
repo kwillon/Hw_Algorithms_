@@ -1,5 +1,5 @@
 # Hw_Algorithms_
-This repository contains homework assignments for the 2023 course: Algorithms and Big Data in Chemistry and Materials Science.
+This repository contains homework assignments for the 2024 course: Algorithms and Big Data in Chemistry and Materials Science.
 
 ## Made by: 
 Kapranova Xenia (ID - 411451)
